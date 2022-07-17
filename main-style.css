@@ -344,7 +344,7 @@ h1.error-font {
 	position: absolute;
 	text-transform: uppercase;
 	font-size: 150px;
-	color: #f9f9f9;
+	color: #f5f5f5;
 	left: 0;
 }
 
@@ -1775,7 +1775,7 @@ h1.split-title {
 	top: 15px;
 }
 .services-block h5 a {
-	font-size: 22px;
+	font-size: 20px;
 	color: #222222;
 	font-weight: 500;
 	display: block;
@@ -5661,4 +5661,13 @@ hr {
 }
 .ml50 {
 	margin-left: 50px;
+}
+
+.contact-section p  {
+	color: #fff;
+}
+
+.contact-section span {
+	color: #000000;
+	text-transform: uppercase;
 }
